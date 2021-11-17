@@ -16,6 +16,9 @@
 #com-zipwhip-widget-svg2gcode .tab-pane {
     padding-top:10px;
 }
+.tab-content {
+    color: black;
+}
 
 .btn-render {
     border-top-left-radius:0;
